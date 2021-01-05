@@ -1,4 +1,5 @@
 *.dat
+*.dat_old
 
 # General
 .DS_Store
