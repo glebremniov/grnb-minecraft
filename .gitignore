@@ -1,8 +1,8 @@
 *.dat
 *.dat_old
 
-./grnb-minecraft
-./logs
+grnb-minecraft/
+logs/
 
 # General
 .DS_Store
